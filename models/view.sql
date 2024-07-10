@@ -1,0 +1,1 @@
+select 101 id,'anand' name,'HYD' city
